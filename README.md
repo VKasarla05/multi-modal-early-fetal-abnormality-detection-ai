@@ -9,6 +9,7 @@ Traditional fetal anomaly screening methods could be reliant on subjective inter
 ---
 
 ### 📁 Project Directory Structure
+```
 text
 📂 ECG/
 │   ├── ECG_Model.ipynb                 # ECG model notebook
@@ -37,7 +38,7 @@ text
 📄 fusion_model.pth                     # Trained fusion model weights
 
 📂 reports/                             # Grad-CAM visualizations and final prediction results
-
+```
 ⚙ Setup & Installation
 
 ### 1. Clone the repository
