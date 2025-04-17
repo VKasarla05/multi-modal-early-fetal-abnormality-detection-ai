@@ -42,7 +42,7 @@ text
 ⚙ Setup & Installation
 
 ### 1. Clone the repository
-git clone [https://github.com/VKasarla05/multi-modal-fetal-abnormality-detection-ai.git]
+git clone [https://github.com/VKasarla05/multi-modal-early-fetal-abnormality-detection-ai]
 
 
 cd multi-modal-fetal-abnormality-detection-ai
