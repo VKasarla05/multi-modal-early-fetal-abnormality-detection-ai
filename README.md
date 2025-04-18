@@ -14,6 +14,9 @@ text
 📂 ECG/
 │   ├── ECG_Model.ipynb                 # ECG model notebook
 │   ├── ecg_cnn_lstm_final.pth          # Trained ECG model
+    ├── ecg_cnn_lstm_balanced.pth       # Trained ECG model
+    ├── ecg_windows.pkl                 # Weights of model(Extrenal link provided in 📦 Model Weights Download due to large file size)
+    ├── ecg_labels.pkl                  # Weights of model
 │   └── Dataset2_NonInvasive/
 │       ├── set-a/
 │       │   └── set-a/                  # Raw ECG data (.hea, .dat, .fqrs, .fqrs.txt, .csv)
@@ -22,7 +25,7 @@ text
 
 📂 Ultrasound/
 │   ├── Ultrasound_Model.ipynb          # Ultrasound model notebook
-│   ├── ultrasound_resnet_model.pth     # Trained ResNet18 model
+│   ├── ultrasound_resnet_model.pth     # Trained ResNet18 model (Extrenal link provided in 📦 Model Weights Download due to large file size)
 │   ├── test/                           # Test set for evaluation
 │   │   ├── *.png                       # Test ultrasound images
 │   │   └── _classes.csv                # Labels for test images
