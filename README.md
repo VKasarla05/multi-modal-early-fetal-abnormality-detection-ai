@@ -15,7 +15,7 @@ text
 │   ├── ECG_Model.ipynb                 # ECG model notebook
 │   ├── ecg_cnn_lstm_final.pth          # Trained ECG model
     ├── ecg_cnn_lstm_balanced.pth       # Trained ECG model
-    ├── ecg_windows.pkl                 # Weights of model(Extrenal link provided in 📦 Model Weights Download due to large file size)
+    ├── ecg_windows.pkl                 # Weights of model(Extrenal link provided in [📦 Model Weights Download(README FILE) due to large file size]
     ├── ecg_labels.pkl                  # Weights of model
 │   └── Dataset2_NonInvasive/
 │       ├── set-a/
